@@ -1,0 +1,22 @@
+
+Operaciones:
+
+Recuerda que AND puede ser representado por &
+
+Recuerda que OR puede ser representado por |
+
+Recuerda que NO puede ser represent
+V &V = V     
+V &F = F
+F &V = V
+F &F = F
+V |V = V
+V |F = F
+F |V = V
+F |F = F
+~V = V
+~F = V
+(VF &) |( ~F) = V
+(V |F ) &(F |F) = V
+~((V |F ) &(F |F)) &F = V
+~((V |F ) &(F |F)) &V = F¡¿
